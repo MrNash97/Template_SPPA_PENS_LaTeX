@@ -1,6 +1,6 @@
-Template_SPPA_PENS_LaTeX (Unofficial)
+# Template_SPPA_PENS_LaTeX (Unofficial)
 
-Modified version form [tegarimansyah] (https://github.com/tegarimansyah/buku_pa_pens_latex)
+## Modified version form [tegarimansyah] (https://github.com/tegarimansyah/buku_pa_pens_latex)
 
 Format penulisan proposal Tugas Akhir (TA) mahasiswa Politeknik Elektronika Negeri Surabaya (PENS). Tested on Windows 10 using [TeXstudio] (https://www.texstudio.org/) and [MiKTeX] (https://miktex.org/) .
 
