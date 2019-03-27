@@ -1,11 +1,19 @@
-# Template_SPPA_PENS_LaTeX (Unofficial)
+# (Unofficial) Format Buku Proyek Akhir PENS di Latex
 
-## Modified version form [tegarimansyah](https://github.com/tegarimansyah/buku_pa_pens_latex)
+Original works by: [kks2](https://github.com/kks32) in [here](https://github.com/kks32/phd-thesis-template)
+Modified by: [tegarimasyah](https://github.com/tegarimansyah)
+---
 
-Format penulisan proposal Tugas Akhir (TA) mahasiswa Politeknik Elektronika Negeri Surabaya (PENS).
-Tested on Windows 10 using [TeXstudio](https://www.texstudio.org/) and [TeXstudio] (https://miktex.org/).
+Format ini khusus digunakan pada buku proyek akhir Politeknik Elektronika Negeri Surabaya. Jika ada kesalahan, silahkan di lakukan issue.
 
-Format ini dibuat dan digunakan pada tahun 2018.
-Tutorial menggunakan LaTeX dapat ditemukan di https://www.latex-tutorial.com/ atau https://tex.stackexchange.com/
+Tested on Kile (ubuntu) dan [sharelatex](https://www.sharelatex.com?r=0b8f4f20&rm=d&rs=b) (Online Editor).
 
-Thankyou very much. Hope this will help you out. Any contribution or suggestion are welcome.
+**NB**: Tidak termasuk cover
+
+---
+
+## Tutorial
+1. Pastikan environtment latex telah siap. Download dan compile format ini (biasanya pada file *thesis.tex*) dan pastikan tidak ada error (ada warning tidak masalah). Atau menggunakan [latex online](https://www.sharelatex.com?r=0b8f4f20&rm=d&rs=b).
+1. Buka *thesis-info.tex* untuk merubah judul, nama penulis dan sebagainya.
+1. Buka tiap folder untuk mengisi kata pengantar, bab 1, bab 2 dan sebagainya.
+1. Jika terdapat kendala, jangan ragu untuk mengirimkan issue.
